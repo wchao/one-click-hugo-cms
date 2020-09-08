@@ -92,11 +92,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: "?"
-    - plan: Jumbo
-      price: "150"
-      description: The big cahuna
-      items:
-        - Whatever else you need
-        - including the kitchen sink.
 type: products
 ---
