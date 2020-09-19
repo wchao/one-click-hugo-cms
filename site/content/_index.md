@@ -1,6 +1,6 @@
 ---
 title: Connectilife
-subtitle: "Senior Care  Service with Smart Devices and  Robotics "
+subtitle: "Senior Care  System and Service with Smart Devices and  Robotics "
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
